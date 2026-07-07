@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yeredey Suárez
 
-<!--
-**ExT-Yeredey/ExT-Yeredey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on AI, automation and digital solutions — building ys.dev.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build digital systems that help businesses simplify processes, automate repetitive work, and make better use of technology. Currently studying Applied Computing (Software Engineering, Artificial Intelligence and Cybersecurity) at MSMK University.
+
+## Focus areas
+
+Software Engineering, Artificial Intelligence, Automation, Web Development, Digital Infrastructure.
+
+## Elsewhere
+
+Website: https://ys.dev
+
+LinkedIn: https://www.linkedin.com/in/yeredeysuarez-ysdev/
+
+## Currently
+
+Building YS AI OS, a private operating ecosystem that supports my projects. Details are not public.
