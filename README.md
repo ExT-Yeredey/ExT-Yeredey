@@ -12,9 +12,9 @@ Busco oportunidades junior y de prácticas donde pueda seguir desarrollándome e
 
 ## Proyectos destacados
 
-### [YSWorks](https://ysworks.dev)
+### [YSWorks Website](https://github.com/ExT-Yeredey/ysworks-site)
 
-Mi marca profesional y sitio web público, centrados en automatización práctica con IA y sistemas web. La web está construida con Astro y desplegada como sitio estático.
+Código público de mi web profesional, construida con Astro y desplegada como sitio estático. Incluye diseño responsive, navegación accesible, SEO técnico y cabeceras de seguridad. [Visitar ysworks.dev](https://ysworks.dev).
 
 ### [Smart City · Jardines Verticales](https://github.com/ExT-Yeredey/smart-city-vertical-gardens)
 
@@ -26,7 +26,7 @@ Calculadora web interactiva que muestra paso a paso una propiedad matemática de
 
 ## Tecnologías
 
-Astro · JavaScript · HTML · CSS · Git · GitHub · Leaflet
+Astro · JavaScript · TypeScript · HTML · CSS · Git · GitHub · Leaflet
 
 ## Contacto
 
