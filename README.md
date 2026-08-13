@@ -16,11 +16,11 @@ Busco oportunidades junior y de prácticas donde pueda seguir desarrollándome e
 
 Mi marca profesional y sitio web público, centrados en automatización práctica con IA y sistemas web. La web está construida con Astro y desplegada como sitio estático.
 
-### [Smart City · Jardines Verticales](https://github.com/ExT-Yeredey/Hackathon-Google-DEveloper-Group-12-12)
+### [Smart City · Jardines Verticales](https://github.com/ExT-Yeredey/smart-city-vertical-gardens)
 
 Prototipo creado durante un hackathon de Google Developer Group. Incluye un mapa interactivo para comparar datos urbanos simulados de calidad del aire y temperatura, y explorar el posible impacto de jardines verticales.
 
-### [Always Nin9 Calculator](https://github.com/ExT-Yeredey/AlwaysNin9CreativeStudio)
+### [Always Nin9 Calculator](https://github.com/ExT-Yeredey/always-nin9-calculator)
 
 Calculadora web interactiva que muestra paso a paso una propiedad matemática del número 9, con validación de entrada y diseño adaptable.
 
