@@ -1,23 +1,34 @@
 # Yeredey Suárez
 
-Software Engineer — AI, Automation & Digital Solutions. Building ys.dev.
+Estudiante de Applied Computing y desarrollador junior, orientado a desarrollo web, automatización e inteligencia artificial aplicada.
 
-[![Website](https://img.shields.io/badge/Website-ys.dev-000000?style=flat-square)](https://ys.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeredey%20Su%C3%A1rez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeredeysuarez-ysdev/)
+[Web profesional](https://ysworks.dev) · [LinkedIn](https://www.linkedin.com/in/yeredeysuarez/)
 
-## About
+## Sobre mí
 
-I design and build digital systems that help businesses simplify processes, automate repetitive work, and make better use of technology. Currently studying Applied Computing (Software Engineering, Artificial Intelligence and Cybersecurity) at MSMK University.
+Actualmente estudio Applied Computing, con formación en ingeniería de software, inteligencia artificial y ciberseguridad. Me interesa construir soluciones web claras, mantenibles y útiles, además de automatizar procesos con un enfoque práctico.
 
-## Focus Areas
+Busco oportunidades junior y de prácticas donde pueda seguir desarrollándome en software, web y automatización.
 
-Software Engineering · Artificial Intelligence · Automation · Web Development · Digital Infrastructure
+## Proyectos destacados
 
-## Currently
+### [YSWorks](https://ysworks.dev)
 
-Building YS AI OS, a private operating ecosystem that supports my projects. Details are not public.
+Mi marca profesional y sitio web público, centrados en automatización práctica con IA y sistemas web. La web está construida con Astro y desplegada como sitio estático.
 
-## Contact
+### [Smart City · Jardines Verticales](https://github.com/ExT-Yeredey/Hackathon-Google-DEveloper-Group-12-12)
 
-Website: https://ys.dev
+Prototipo creado durante un hackathon de Google Developer Group. Incluye un mapa interactivo para comparar datos urbanos simulados de calidad del aire y temperatura, y explorar el posible impacto de jardines verticales.
 
-LinkedIn: https://www.linkedin.com/in/yeredeysuarez-ysdev/
+### [Always Nin9 Calculator](https://github.com/ExT-Yeredey/AlwaysNin9CreativeStudio)
+
+Calculadora web interactiva que muestra paso a paso una propiedad matemática del número 9, con validación de entrada y diseño adaptable.
+
+## Tecnologías
+
+Astro · JavaScript · HTML · CSS · Git · GitHub · Leaflet
+
+## Contacto
+
+- Web: [ysworks.dev](https://ysworks.dev)
+- LinkedIn: [linkedin.com/in/yeredeysuarez](https://www.linkedin.com/in/yeredeysuarez/)
